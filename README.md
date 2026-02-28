@@ -29,3 +29,7 @@ Uses GD browser's level search API
 
 This just redirects you to [API]/obtain-levels/{path} to gdbrowser.com/api/{path}
 Search up its documentation for actual documentation!
+
+example
+
+[API]/obtain-levels/*?page=5
