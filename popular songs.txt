@@ -1,4 +1,6 @@
-    song: 1077 uses: 505		
+This text file contains the most used songs (that aren't in the game yet) from the most downloaded tab. Expect to see the top ones getting added to the game, however!!
+
+		song: 1077 uses: 505		
 		song: Dreams uses: 505		
 		song: Polarity uses: 504		
 		song: ColBreakz - 40.000 uses: 503		
