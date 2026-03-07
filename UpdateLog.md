@@ -1,17 +1,22 @@
-# 0.4.22 is here!!
+# 0.4.3 is here!!
 
-- Improved slope physics
+- Adjusted how every gamemode works and behaves
 
-- Added coins (WIP)
+- Adjusted how physics behave in general
 
-- Fixed a bug where the delete button in online levels would take you to the editor page
+- TPS will now always be set to 240. aka...
 
-- Fixed a bug where coins had a green background
+- NO MORE FPS INCONSISTENCIES!!
 
-- Fixed a bug where you could play multiple main-levels at once
+- Fixed a bug where breakable blocks were gone
 
-- Added a popup when obtaining the sealtastic badge!
+- Ripped the loading text sprites from the real game (last ones had community ones and were from gd 2.1)
 
-- Squashed some bugs!!!
+- Added 7 new songs
 
-Hihi! I'm trying my best to add all update 1.7 (and below) features to be able to get hexagon force running smoothly and correctly. Thank you for your patience!
+- and uhhh idk fixed bugs ig
+
+woo!!! i've finally fixed most of the robot's and spider's bugs. It's been quite bugged since the start of this project, and it's very exciting to see them fixed. ..kinda
+Anyhow—I'll keep experimenting with things until i'm proud of them.
+
+I've found a way to add the most suitable songs into the game, so i'll be adding the most popular ones from time to time! (expect new song choices!)
