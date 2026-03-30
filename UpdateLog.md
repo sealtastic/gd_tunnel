@@ -1,18 +1,13 @@
-# 0.4.31 is here!!
+# 0.4.4 is here!!
 
-- Adjusted how speed works
+- Fixed profile button not working in the search tab (now shows the user's levels)
 
-- Brought back timewarp, aswell as some glitches!
+- Fixed death hitboxes (especially saws)
 
-- Reworked hacker punishment.. >:]
+- Sized some things to better represent the game
 
-- Added hacker detection (WIP, MAY not work as intended)
+- Renamed the official main levels to their correct replica
 
-- Added the drop orb!
+- And fixed some visual bugs related to the robot and spider!
 
-- Fixed terminal y speeds
-
-- Fixed some bugs related to D E A T H.......
-
-i finally added drop orbs!! now i just need the twin dashes and the teleport ones... AHHHHHHHHHHHHHH
-anyways, i've finally reworked cheating detection, and it's WAY better than before; Not only does it prevent server-sided bugs, it prevents flying and external script on the player!
+i've been wanting to do these things for quite some time, honestly.
