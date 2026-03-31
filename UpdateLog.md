@@ -1,4 +1,8 @@
-# 0.4.4 is here!!
+# 0.4.41 is here!!
+
+- Added groundlines
+
+- Fixed a bug where the default planks (or better known as half blocks or slabs) were the default block texture
 
 - Fixed profile button not working in the search tab (now shows the user's levels)
 
