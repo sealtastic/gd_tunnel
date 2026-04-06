@@ -1,4 +1,4 @@
-# 0.4.5 is here!!!
+# 0.4.51 is here!!!
 
 - Added the two dash rings
 
@@ -9,5 +9,11 @@
 - Improved slope physics
 
 - Improved hacker detection by somewhat
+
+!!
+
+- Improved voice chat (and hopefully didn't break parties)
+
+- Fixed a bug where the dash ring's particles were yellow
 
 I just need the spider rings and spider pads to finish off pads and rings for once. I'll try to add dual mode after. (this is going to be absolute PAIN.)
