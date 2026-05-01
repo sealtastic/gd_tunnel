@@ -1,19 +1,19 @@
-# 0.4.51 is here!!!
+# Party update; 0.4.6 is here!!!
 
-- Added the two dash rings
+- Improved how parties work
 
-- Improved how the ship's rotation worked.
+- Fixed a bug where parties would try to obtain a non-existent party
 
-- Improved performance by removing levels after inactivity rather than caching them until someone deleted it.
+- Added more detail to party frames
 
-- Improved slope physics
+- Added a feature to play what the host is playing
 
-- Improved hacker detection by somewhat
+- Added a new party gamemode; Collision (Based on globed's Collision setting.
 
-!!
+- Fixed a bug where the ground would be a bit weird in platformer
 
-- Improved voice chat (and hopefully didn't break parties)
+- Fixed a bug where you would see players outside of gameplay in parties
 
-- Fixed a bug where the dash ring's particles were yellow
+- Fixed a bug where new players visually had no icons equipped at the garage
 
-I just need the spider rings and spider pads to finish off pads and rings for once. I'll try to add dual mode after. (this is going to be absolute PAIN.)
+THANK YOU ALL SO MUCH FOR 35K VISITS??? YOU GUYS ARE ALL INSANE
