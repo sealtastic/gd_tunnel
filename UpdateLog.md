@@ -16,4 +16,12 @@
 
 - Fixed a bug where new players visually had no icons equipped at the garage
 
+!!
+
+- Fixed a bug where the player thought anything was a ground as long as it was inside the player
+
+- Fixed a bug where Collision wouldn't work
+
+- Fixed a bug where the button animation would play when clicking the update log frame
+
 THANK YOU ALL SO MUCH FOR 35K VISITS??? YOU GUYS ARE ALL INSANE
