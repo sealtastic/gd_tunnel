@@ -6,6 +6,10 @@
 
 - Made the game run slightly faster to simulate gd
 
+- Added more particles
+
+- Reworked some particles
+
 - Squashed some bugss!!!
 
 50K visits. WHAT?!
