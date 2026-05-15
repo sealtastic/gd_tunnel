@@ -10,7 +10,7 @@
 
 - Recreated all pad y values 1:1 from the game
 
-- Fixed dash orbs in platformer making you go the other way.
+- Fixed editor audio playback not working
 
 I'm very proud of this game and how many people have played it. Thank you so much<33
 
