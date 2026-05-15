@@ -1,15 +1,13 @@
-# A quick optimization; 0.4.61 is here!!!
+# A serversided update; 0.4.62 is here!
 
-- Optimized how levels save by deleting them during inactivity, rather than saving them for eternity.
+- Changed how servers work by swapping to local fetching rather than gdbrowser's api
 
-- Added extra height when holding down jump in the cube gamemode
+- Added a new endpoint specifically for ng audio
 
-- Made the game run slightly faster to simulate gd
+- Optimized the servers a big
 
-- Added more particles
+- Fixed client sided bugs related to searching
 
-- Reworked some particles
+I'm very proud of this game and how many people have played it. Thank you so much<33
 
-- Squashed some bugss!!!
-
-50K visits. WHAT?!
+I might start dual mode, but not sure how it works yet.
