@@ -1,17 +1,37 @@
-# A mostly serversided update; 0.4.62 is here!
+# 0.4.7 is here!
 
-- Changed how servers work by swapping to local fetching rather than gdbrowser's api
+## THANK YOU SO MUCH FOR 100K VISITS!
+I genuinely can't believe we've gone so far into this project, i really can't! I'll try getting 1.8 features up soon, don't worry, but I would like to thank everyone that has interacted with my game atleast once, as this game has truly improved my development skills, and has taken a huge impact on my thinking.
 
-- Added a new endpoint specifically for ng audio
+Ontop of all that, I've got to meet people who loved my game and cheered me to keep on going! 
+..yes, i'm talking about YOU!
 
-- Optimized the servers a big
 
-- Fixed client sided bugs related to searching
+## ..bad news
+### i don't think i can continue developing for much longer, mostly due to roblox being the greedy little platform they are. 
 
-- Recreated all pad y values 1:1 from the game
+I have a million questions on what they're doing. Their "safety protocols" are making the platform feel more stressful to keep track of, and i genuinely believe they're making the platform less safe overall.
 
-- Fixed editor audio playback not working
+Roblox has these "age groups", and got put at 16. I barely became a teen this year—LITERALLY A MONTH AGO. I can only talk to people above my age in Roblox, and it makes me feel worried.
 
-I'm very proud of this game and how many people have played it. Thank you so much<33
+Ontop of that,
+### The game's 16+ now due to roblox being hungry for money.
 
-I might start dual mode, but not sure how it works yet.
+If I want to have a stable game, I don't think roblox is what i'm looking for anymore.
+
+I'll try my best to finish what i've started:)
+
+# UPDATE
+
+- Added dual mode portal
+
+- Added undual mode portal
+
+- Implemented dual mode somewhat
+
+- 100K visits badge
+
+- Fixed some bugs
+
+TODO: ADD SECOND PLAYER
+Oh, and a badge for everyone that joins :)
