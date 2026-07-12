@@ -9,6 +9,10 @@ WHAT?!?
 
 - Changed how a few things work
 
+- Added more badges
+
+- Made it so you're able to extinguish between completed levels and non-completed ones in the online section
+
 - Fixed a bug where badges would be given weirdly
 
 - Disabled gravity bug temporarily for further testing
