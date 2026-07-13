@@ -1,24 +1,20 @@
-# 0.5.0 is here!
-
-## THANK YOU SO MUCH FOR 200K VISITS!
-WHAT?!?
+# 0.5.1 is here!
 
 # UPDATE
 
-- Scores catagory enabled
+- Added profiles for each user
 
-- Changed how a few things work
+- Added profile updates
 
-- Added more badges
+- Made the usernames in the score tab clickable to view their profile
 
-- Made it so you're able to extinguish between completed levels and non-completed ones in the online section
+- Moved the change logs button
 
-- Fixed a bug where badges would be given weirdly
+- Finally fixed the bug relating with flipping & rotations being innacurate
 
-- Disabled gravity bug temporarily for further testing
-
-- SQUASHED SOME BUGS!!
+- Squashed some bugs!!!
 
 TODO: ADD SECOND PLAYER
 
-MADE IN THE EVENTS CHANNEL
+I'm still very shocked as to how we got 200K visits :')
+Also—Make sure to check out the new profiles! I'll be adding ROBLOX user search later :>
