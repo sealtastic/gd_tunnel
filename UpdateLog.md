@@ -1,20 +1,15 @@
-# 0.5.1 is here!
+# 0.5.2 is here!
 
 # UPDATE
 
-- Added profiles for each user
+- Made slopes work better
 
-- Added profile updates
+- Fixed a bug where terminal speeds would still apply when on a slope
 
-- Made the usernames in the score tab clickable to view their profile
+- Fixed a bug where blocks wouldn't have their ground hitbox when inside a pad
 
-- Moved the change logs button
-
-- Finally fixed the bug relating with flipping & rotations being innacurate
+- Fixed a bug relating displayment of profile comments
 
 - Squashed some bugs!!!
 
-TODO: ADD SECOND PLAYER
-
-I'm still very shocked as to how we got 200K visits :')
-Also—Make sure to check out the new profiles! I'll be adding ROBLOX user search later :>
+hii! i wanted to just see if i could get slopes working before i get to work on dual portals, aswell as fix a few minor gameplay bugs while i was at it!
