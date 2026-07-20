@@ -16,4 +16,6 @@ After a long while.. 1.8 LEVELS ARE OUT!.. aswell as 1.9, but like, oh well :/..
 
 - Fixed a bug where comment sections didn't have a limit to characters, regardless of the character count
 
+- Added back the gravity bug to suitable levels
+
 - Squashed many bugs!! >:D
