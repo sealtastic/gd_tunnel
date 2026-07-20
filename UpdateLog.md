@@ -1,15 +1,19 @@
-# 0.5.2 is here!
+# 0.5.3 is here!
 
-# UPDATE
+After a long while.. 1.8 LEVELS ARE OUT!.. aswell as 1.9, but like, oh well :/.. Here's what's new:
+
+- Added Hexagon Force
+
+- Added Blast Processing
+
+- Added Theory Of Everything 2
+
+- Added several decoration blocks
 
 - Made slopes work better
 
-- Fixed a bug where terminal speeds would still apply when on a slope
+- Fixed a bug where a certain plank would be stretched on the y coordinate
 
-- Fixed a bug where blocks wouldn't have their ground hitbox when inside a pad
+- Fixed a bug where comment sections didn't have a limit to characters, regardless of the character count
 
-- Fixed a bug relating displayment of profile comments
-
-- Squashed some bugs!!!
-
-hii! i wanted to just see if i could get slopes working before i get to work on dual portals, aswell as fix a few minor gameplay bugs while i was at it!
+- Squashed many bugs!! >:D
