@@ -1,21 +1,29 @@
-# 0.5.3 is here!
+# 0.6.0
 
-After a long while.. 1.8 LEVELS ARE OUT!.. aswell as 1.9, but like, oh well :/.. Here's what's new:
+- Added level sharing!
 
-- Added Hexagon Force
+- Added a custom GDPS for the level sharing
 
-- Added Blast Processing
+- Added creator points
 
-- Added Theory Of Everything 2
+- Added level liking/rating in the GDPS
 
-- Added several decoration blocks
+- Added profile viewing from the GDPS's search profile button
 
-- Made slopes work better
+- Added viewing user created levels from the profile
 
-- Fixed a bug where a certain plank would be stretched on the y coordinate
+- Added moderator role
 
-- Fixed a bug where comment sections didn't have a limit to characters, regardless of the character count
+- Added new badge
 
-- Added back the gravity bug to suitable levels
+- Added object culling
 
+- Added ground line
+
+- Improved performance
+
+- Made some adjustments for offline servers;
+
+- Added the ability to enter the search tab when servers are offline
+  
 - Squashed many bugs!! >:D
