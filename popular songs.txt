@@ -16,14 +16,14 @@ This text file contains the most used songs (that aren't in the game yet) from t
 		song: -Endgame- uses: 20		(done)
 		song: NK - Nine Circles uses: 18		(done) FAILED
 		song: TheFatRat - Xenogenesis uses: 18		(done) FAILED
-		song: -Final Battle- uses: 16		
+		song: -Final Battle- uses: 16		(done)
 		song: Stereo Madness 2 uses: 15		
 		song: Within The Sadness (1f1n1ty RMX) uses: 15		
 		song: Ludicrous Speed - F-777 uses: 14		(done)
 		song: Detious - Golden Haze (Prev) uses: 14		(done)
 		song: TheFatRat - Windfall uses: 13		
 		song: Aether (new) uses: 12		
-		song: ParagonX9 - Chaoz Fantasy uses: 12		
+		song: ParagonX9 - Chaoz Fantasy uses: 12	(done)	
 		song: Dance Of The Violins uses: 12		
 		song: ParagonX9 - Chaoz Impact uses: 12		
 		song: TheFatRat - Never Be Alone uses: 12		
@@ -70,7 +70,7 @@ This text file contains the most used songs (that aren't in the game yet) from t
 		song: Bossfight - Nock Em uses: 8		
 		song: ~NK~ Fracture uses: 8		
 		song: Purity uses: 8		
-		song: NH22 - Isolation uses: 8		
+		song: NH22 - Isolation uses: 8	    (done)	
 		song: {dj-N} Electrodynamix uses: 8		
 		song: Be Gone Mr. Gawne uses: 8		
 		song: Xtrullor - Ichor uses: 8		
