@@ -1,29 +1,9 @@
-# 0.6.0
+# 0.6.1
 
-- Added level sharing!
+- Added Save & Play to the editor
 
-- Added a custom GDPS for the level sharing
+- Added 9 new icons
 
-- Added creator points
-
-- Added level liking/rating in the GDPS
-
-- Added profile viewing from the GDPS's search profile button
-
-- Added viewing user created levels from the profile
-
-- Added moderator role
-
-- Added new badge
-
-- Added object culling
-
-- Added ground line
-
-- Improved performance
-
-- Made some adjustments for offline servers;
-
-- Added the ability to enter the search tab when servers are offline
+- Improved server side
   
 - Squashed many bugs!! >:D
