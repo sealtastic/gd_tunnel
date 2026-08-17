@@ -1,19 +1,9 @@
-# 0.6.1
+# QoL update: 0.6.2
 
-- Added Save & Play to the editor
+- Added object pulsing
 
-- Added playtesting to the editor
-
-- Added 9 new icons
-
-- Improved server side
-
-- Added character dialog layer
-
-- Improved secret dialog
-
-- Added the ability to get diamonds from GD levels
-
-- Added 250K visits badge (TYSM Y'ALL)
+- Added saw rotation
   
 - Squashed many bugs!! >:D
+
+I'm working on making level downloading client-sided, so current level downloading will have bugs.
