@@ -1,9 +1,9 @@
-# QoL update: 0.6.2
+# BEST performance update: 0.6.3
 
-- Added object pulsing
+- Made level downloading client sided rather than server sided
 
-- Added saw rotation
-  
-- Squashed many bugs!! >:D
+- Made level downloading 12.5X faster than before
 
-I'm working on making level downloading client-sided, so current level downloading will have bugs.
+- Improved performance
+
+- Squashed some bugs relating to Versus mode
