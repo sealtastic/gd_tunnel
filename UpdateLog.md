@@ -1,9 +1,13 @@
-# BEST performance update: 0.6.3
+# Bug fixing update 0.6.4
 
-- Made level downloading client sided rather than server sided
+- 19 new cubes
 
-- Made level downloading 12.5X faster than before
+- Updated the GDPS searching tab page
 
-- Improved performance
+- Modified the UFO terminal speed to account for better gd physics
+
+- Added more donation passes
 
 - Squashed some bugs relating to Versus mode
+
+Update was created live, make sure to be there next time! :)
