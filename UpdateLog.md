@@ -1,13 +1,13 @@
-# Bug fixing update 0.6.4
+# UI update 0.6.5
 
-- 19 new cubes
+- Added pusab font
 
-- Updated the GDPS searching tab page
+- Made some changes to some UIs
 
-- Modified the UFO terminal speed to account for better gd physics
+- Added level updating
 
-- Added more donation passes
+- AND more
 
-- Squashed some bugs relating to Versus mode
+- also squashed some bugs idk
 
 Update was created live, make sure to be there next time! :)
