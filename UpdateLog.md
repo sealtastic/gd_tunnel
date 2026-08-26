@@ -1,13 +1,15 @@
-# UI update 0.6.5
+# Color update 0.6.6
 
-- Added pusab font
+- Added color channels
 
-- Made some changes to some UIs
+- Implemented color triggers
 
-- Added level updating
+- Added colors idk
 
-- AND more
+- Colors
 
-- also squashed some bugs idk
+- Added colors
 
-Update was created live, make sure to be there next time! :)
+- Colors
+
+- Squashed some bugs!!
