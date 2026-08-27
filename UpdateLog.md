@@ -1,15 +1,11 @@
-# Color update 0.6.6
+# Trigger update 0.6.7
 
-- Added color channels
+- Added offset camera trigger
 
-- Implemented color triggers
+- Added rotate camera trigger
 
-- Added colors idk
+- Added timewarp trigger
 
-- Colors
+- Squashed some bugs
 
-- Added colors
-
-- Colors
-
-- Squashed some bugs!!
+- Optimized colors
