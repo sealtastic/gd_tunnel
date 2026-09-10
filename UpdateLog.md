@@ -1,11 +1,7 @@
-# Trigger update 0.6.7
+# blocky update 0.6.8
 
-- Added offset camera trigger
+- Added a bunch of new objects
 
-- Added rotate camera trigger
+- Added fade in-out transitions between uis
 
-- Added timewarp trigger
-
-- Squashed some bugs
-
-- Optimized colors
+- Squashed some bugss!!!
