@@ -1,7 +1,15 @@
-# blocky update 0.6.8
+# blocky update 0.7
+
+-  Added z layering in editor
 
 - Added a bunch of new objects
 
-- Added fade in-out transitions between uis
+- Added the end trigger
 
-- Squashed some bugss!!!
+- Started support for passable objects (beta)
+
+- Added back placeholder text for textboxes
+
+- Squashed some bugss
+
+- 500K VISITS BADGE!!!
