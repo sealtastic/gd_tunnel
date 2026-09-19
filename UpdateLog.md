@@ -1,15 +1,13 @@
-# blocky update 0.7
+# editor update 0.701
 
--  Added z layering in editor
+-  Added roblox audio support for rbxgdps levels
 
-- Added a bunch of new objects
+-  Added the alternating background color to the saved songs layer
 
-- Added the end trigger
+-  Changed the font of the changelogs to better go with how GD feels
 
-- Started support for passable objects (beta)
+-  Made the secret in the menu rarer from 1/200 to a 1/500 chance.
 
-- Added back placeholder text for textboxes
+-  Squashed some bugs!!
 
-- Squashed some bugss
-
-- 500K VISITS BADGE!!!
+I'm still shocked about the 500K visits.. Well, enjoy this new update! In the meantime, i'll be working on the github page to make it as best as possible!
