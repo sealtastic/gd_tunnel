@@ -1,13 +1,11 @@
-# editor update 0.701
+# QoL update 0.702
 
--  Added roblox audio support for rbxgdps levels
+-  Fixed collision setting in Versus
 
--  Added the alternating background color to the saved songs layer
+-  Improved performance ingame
 
--  Changed the font of the changelogs to better go with how GD feels
+-  Versus players are now behind the client's player
 
--  Made the secret in the menu rarer from 1/200 to a 1/500 chance.
+-  Squashed some bugs!!!
 
--  Squashed some bugs!!
-
-I'm still shocked about the 500K visits.. Well, enjoy this new update! In the meantime, i'll be working on the github page to make it as best as possible!
+0.7 will be mostly about performance & qol. ..probably the most buggy one lol :')
