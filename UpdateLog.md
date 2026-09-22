@@ -1,10 +1,10 @@
-# QoL update 0.702
+# QoL update 0.703
 
--  Fixed collision setting in Versus
+-  Improved 2.1 ship physics
 
--  Improved performance ingame
+-  Added the vault of secrets
 
--  Versus players are now behind the client's player
+-  Fixed a bug where beating a new rated level would reset your diamonds
 
 -  Squashed some bugs!!!
 
