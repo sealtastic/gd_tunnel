@@ -1,11 +1,11 @@
-# QoL update 0.703
+# QoL update 0.7031
 
--  Improved 2.1 ship physics
+-  Added 23 objects
 
--  Added the vault of secrets
+-  Added socials for suitable people
 
--  Fixed a bug where beating a new rated level would reset your diamonds
+-  Fixed a bug where some non-defined objects with rotated textures wouldn't have their size rotated aswell
 
--  Squashed some bugs!!!
+-  Squashed some other bugs!!!
 
 0.7 will be mostly about performance & qol. ..probably the most buggy one lol :')
