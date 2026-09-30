@@ -1,15 +1,7 @@
-# QoL update 0.7031
+# Transparent update 0.7032
 
--  Added 23 objects
-
--  Added socials for suitable people
-
--  Fixed a bug where some non-defined objects with rotated textures wouldn't have their size rotated aswell
-
--  Improved performance
-
--  Added back the player particle thing caused by a bug
-
--  Squashed some other bugs!!!
+- Added opacity in colors
+  
+- Fixed a bug where high-detailed level searches would cause the game to break while loading them
 
 0.7 will be mostly about performance & qol. ..probably the most buggy one lol :')
