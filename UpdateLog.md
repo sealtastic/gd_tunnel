@@ -1,9 +1,11 @@
-# Transparent update 0.7032
+# QoL update 0.704
 
-- Added opacity in colors
-  
-- Fixed a bug where high-detailed level searches would cause the game to break while loading them
+- Reworked the more games button
 
-- Improved performance
+- Fixed a bug where players could click on anything behind the fl_popup dialog.
+
+- Improved how the main menu looks.
+
+- Fixed an issue where playtesting in editor would move the playtest button slightly during gameplay
 
 0.7 will be mostly about performance & qol. ..probably the most buggy one lol :')
