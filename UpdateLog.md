@@ -1,13 +1,13 @@
-# QoL update 0.7041
+# QoL update 0.705
 
-- Fixed a bug where the time filters did not work
-
-- Changed the song for "At the speed of light"
-
-- Fixed a bug where leaving the vote layer of a comment would give a visual like to the comment
-
-- Improved a few minor aspects of the game
-
-- Improved the looks of the searching tab
+- Creator leaderboard
+- Improved the UI for some parts of the game
+- Delete swiping now works any object rather than being limited to current blocks selected.
+- In platformer, you're no longer able to climb walls.
+- Remove copy data limit
+- Added Spider pads & orbs
+- Fixed a bug regarding main levels
+- Improved slopes
+- Fixed a bug where you could delete levels from other people
 
 0.7 will be mostly about performance & qol. ..probably the most buggy one lol :')
