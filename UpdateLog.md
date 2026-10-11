@@ -1,4 +1,4 @@
-# QoL update 0.706
+# Update 0.706
 
 - Added scaling to the editor
 - Fixed a few things related to the editor UI
