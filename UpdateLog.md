@@ -26,4 +26,6 @@
   
 - Fixed a bug where you could get stuck when servers were down
 
+- Added color background in the menu
+
 0.7 will be mostly about performance & qol. ..probably the most buggy one lol :')
