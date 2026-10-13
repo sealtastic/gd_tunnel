@@ -1,4 +1,6 @@
-# Update 0.706
+# Update 0.7061
+
+- Added 2.2 death effect
 
 - Added scaling to the editor
   
