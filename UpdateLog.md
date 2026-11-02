@@ -1,4 +1,4 @@
-# Update 0.803
+# Update 0.8031
 
 - Added passing ring effect thing
 
@@ -10,7 +10,7 @@
 
 - Fixed a bug relating to some objects being disproportionate to their GD counterparts in size
 
-- Changed deadlocked song (..winkwink)
+- Added comment deletion for moderators
 
 - Added 1M visits badge (TYSM BTW AJIOAUIH)
   
