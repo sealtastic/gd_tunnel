@@ -11,6 +11,8 @@
 - Fixed a bug relating to some objects being disproportionate to their GD counterparts in size
 
 - Changed deadlocked song (..winkwink)
+
+- Added 1M visits badge (TYSM BTW AJIOAUIH)
   
 # Update 0.8
 
