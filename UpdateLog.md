@@ -1,14 +1,16 @@
-# Update 0.802
+# Update 0.803
 
-- Added alpha trigger
+- Added passing ring effect thing
+
+- Added CCCircleWave effect to portals, pads, and rings
 
 - Improved performance
 
-- Improved colors
+- Added comments to levels
 
-- Improved the physics for the robot
+- Fixed a bug relating to some objects being disproportionate to their GD counterparts in size
 
-- Fixed a bug relating to small pixel-screens and the tabs in the editor
+- Changed deadlocked song (..winkwink)
   
 # Update 0.8
 
