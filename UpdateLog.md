@@ -1,39 +1,13 @@
-# Update 0.8031
+# Update 0.804
 
-- Added passing ring effect thing
+- Added 1000+ icons!
 
-- Added CCCircleWave effect to portals, pads, and rings
+- Articulated spider/robot!
 
-- Improved performance
+- Fixed a few bugs relating to spider clicking
 
-- Added comments to levels
+- Fixed a bug where the cube would not rotate after falling off a block
 
-- Fixed a bug relating to some objects being disproportionate to their GD counterparts in size
+- Other stuff I forgot
 
-- Added comment deletion for moderators
-
-- Added 1M visits badge (TYSM BTW AJIOAUIH)
-  
-# Update 0.8
-
-- Added 4000+ objects
-
-- Massively improved performance
-
-- Improved colors
-
-- Massive UI Improvements
-
-- GD level importing/exporting (works cross-gd/gdr)
-
-- Fixed a bug relating to objects placing on the center in the editor
-
-- Added toggle trigger/ring
-
-- New main level songs
-
-- Squashed MANY bugs!
-
-- More rating advisors
-
-Enjoy! :-)
+Enjoy^^
