@@ -1,0 +1,75 @@
+## Made by sealtastic
+
+var MousePos = !MOUSEXYZ
+var lastMousePos = !MOUSEXYZ
+label again
+com |folder != false
+goto FolderEnabled !NEW
+goto again
+label FolderEnabled
+print folder enabled
+
+## if mouse down, continue. else, retry the loop
+input H hDown
+com |hDown == true
+goto mousedowntrue |hDown
+var lastMousePos = !MOUSEXYZ
+goto again
+
+## 
+label mousedowntrue
+new 211
+var obj = !NEW
+var MousePos = !MOUSEXYZ
+
+## doing calculation
+var posX = |MousePos.X
+var posY = |MousePos.Y
+var posZ = |MousePos.Z
+var lastPosX = |lastMousePos.X
+var lastPosY = |lastMousePos.Y
+var lastPosZ = |lastMousePos.Z
+
+## Middle positions
+com |lastPosX + |posX
+com !NEW * 0.5
+var middlePosX = !NEW
+
+com |lastPosY + |posY
+com !NEW * 0.5
+var middlePosY = !NEW
+
+## Calculate distance
+
+com |lastPosX - |posX
+com !NEW ^ 2
+var x2 = !NEW
+com |lastPosY - |posY
+com !NEW ^ 2
+var y2 = !NEW
+com |x2 + |y2
+com !NEW sqrt 0
+com !NEW * 2
+var dist = !NEW
+
+## Calculate rotation
+
+com |middlePosX - |lastPosX
+var deltaX = !NEW
+com |middlePosY - |lastPosY
+var deltaY = !NEW
+com |deltaY atan2 |deltaX
+var radians = !NEW
+com 180 / 3.14159
+com |radians * !NEW
+var rot = !NEW
+
+## Position Correctly
+set |obj Position v|middlePosX_|middlePosY_0
+set |obj Rotation v0_0_|rot
+set |obj Size v|dist_0.25_0
+set |obj Anchored true
+var MousePos = !MOUSEXYZ
+place |obj => |folder
+var lastMousePos = !MOUSEXYZ
+goto again
