@@ -7,7 +7,6 @@ com |folder != false
 goto FolderEnabled !NEW
 goto again
 label FolderEnabled
-print folder enabled
 
 ## if mouse down, continue. else, retry the loop
 input H hDown
@@ -48,8 +47,7 @@ com |lastPosY - |posY
 com !NEW ^ 2
 var y2 = !NEW
 com |x2 + |y2
-com !NEW sqrt 0
-com !NEW * 2
+com !NEW sqrt 2
 var dist = !NEW
 
 ## Calculate rotation
