@@ -1,12 +1,12 @@
-# Update 0.804
+# Update 0.8041
 
-- Added 1000+ icons!
+- Fixed a bug where you could click through some UIs
 
-- Articulated spider/robot!
+- Fixed some UIs aswell
 
-- Fixed a few bugs relating to spider clicking
+- Fixed some icons having low textures
 
-- Fixed a bug where the cube would not rotate after falling off a block
+- Fixed a backdoor that would allow for people to edit their save data
 
 - Other stuff I forgot
 
