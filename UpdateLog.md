@@ -1,13 +1,21 @@
-# Update 0.8041
+# Update 0.81
 
-- Fixed a bug where you could click through some UIs
+- Added mods
 
-- Fixed some UIs aswell
+- Added 3 new triggers
 
-- Fixed some icons having low textures
+- Fixed a bug relating to UIs being able to be clicked behind them
 
-- Fixed a backdoor that would allow for people to edit their save data
+- Revamped a couple of songs with permission from the remix's authors
 
-- Other stuff I forgot
+- Added effect to popup
+
+- Fixed a bug relating to D blocks
+
+- Fixed a bug where platformer triggers occured when the player passed through them
+
+- Added spawn triggered, touch triggered, and multi activate for all triggers
+
+- Other fun QoL stuff
 
 Enjoy^^
