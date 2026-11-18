@@ -1,4 +1,4 @@
-# Update 0.81
+# Update 0.811
 
 - Added mods
 
@@ -17,5 +17,9 @@
 - Added spawn triggered, touch triggered, and multi activate for all triggers
 
 - Other fun QoL stuff
+
+- Added explorer to mod editor
+
+- Improved UI for Atomize related stuff
 
 Enjoy^^
