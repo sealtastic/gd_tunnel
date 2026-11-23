@@ -8,4 +8,6 @@
 
 - Fixed a bug relating to mods staying on the bottom of the downloads tab
 
+- Optimized game
+
 Enjoy^^
