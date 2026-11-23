@@ -1,25 +1,11 @@
-# Update 0.811
+# Update 0.812
 
-- Added mods
+- Improved ship physics
 
-- Added 3 new triggers
+- Improved background
 
-- Fixed a bug relating to UIs being able to be clicked behind them
+- Improved Atom Modding
 
-- Revamped a couple of songs with permission from the remix's authors
-
-- Added effect to popup
-
-- Fixed a bug relating to D blocks
-
-- Fixed a bug where platformer triggers occured when the player passed through them
-
-- Added spawn triggered, touch triggered, and multi activate for all triggers
-
-- Other fun QoL stuff
-
-- Added explorer to mod editor
-
-- Improved UI for Atomize related stuff
+- Fixed a bug relating to mods staying on the bottom of the downloads tab
 
 Enjoy^^
