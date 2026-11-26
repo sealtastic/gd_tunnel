@@ -1,13 +1,21 @@
-# Update 0.812
+# Update 0.813
 
 - Improved ship physics
 
-- Improved background
+- Updated menu song
 
-- Improved Atom Modding
-
-- Fixed a bug relating to mods staying on the bottom of the downloads tab
+- Added the ability to use "%20" in Atom to reference to a space in instances
 
 - Optimized game
+
+- Improved some UIs
+
+- Squashed some bugs
+
+- Added chat font
+
+- Added geometrical dominator
+
+- Broke main level progress (Your data is still there on the server.)
 
 Enjoy^^
