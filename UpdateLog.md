@@ -16,6 +16,6 @@
 
 - Added geometrical dominator
 
-- Broke main level progress (Your data is still there on the server.)
+- Fixed main level progress
 
 Enjoy^^
