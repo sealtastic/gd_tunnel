@@ -18,6 +18,10 @@
 
 - Fixed main level progress
 
+- Improved mod rules
+
+- Added the ability to uninstall your own mods after reaching 100 downloads (If it doesn't meet this requirement, uninstalling deletes it.)
+
 - Added roblox button
 
 Enjoy^^
