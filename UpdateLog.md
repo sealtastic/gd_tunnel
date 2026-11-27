@@ -4,6 +4,8 @@
 
 - Updated create tab warning to reflect on availability of 2.0
 
+- Added safe mode command to prevent mods from loading (/safemode)
+
 - Improved ship physics
 
 - Updated menu song
