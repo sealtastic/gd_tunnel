@@ -1,4 +1,8 @@
-# Update 0.813
+# Update 0.82
+
+- Improved colors
+
+- Updated create tab warning to reflect on availability of 2.0
 
 - Improved ship physics
 
